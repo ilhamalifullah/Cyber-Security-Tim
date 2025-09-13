@@ -5,3 +5,6 @@ balasan ku ke kau ilham cokk
 1+1 = 2
 perubahan ke 5
 perubahan ke 6
+
+13 september 2025 (mulai dari awal lagi)
+25+25 = 50 (commit pertama branch ilham)
