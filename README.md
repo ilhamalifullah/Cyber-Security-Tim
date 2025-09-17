@@ -23,3 +23,5 @@ tes masuk errornya
 commit kedua branch custom
 
 selesai 
+
+tambah lagi dari custom (commit 3)
